@@ -19,7 +19,7 @@ pages/
 
 ```
 
-This template uses Next.js. So Based on file based routing, Your Landing page will be visible on home route `/` and shopify app ui on route `/shopify`
+This template uses Next.js. So due to file based routing, Your Landing page will be visible on home route `/` and shopify app ui on route `/shopify`
 
 Default Landing Page
 <br/>
