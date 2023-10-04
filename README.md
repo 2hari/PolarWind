@@ -23,11 +23,11 @@ This template uses Next.js. So Based on file based routing, Your Landing page wi
 
 Default Landing Page
 <br/>
-![default landing](/public/landing.png)
+![landing](https://github.com/2hari/PolarWind/assets/73457568/57c3d863-f528-45fd-8e1e-5129fe12d596)
 
 Initial App UI in Polaris Playground
 <br/>
-![ezcv logo](/public/shopify-mock.png)
+![shopify-mock](https://github.com/2hari/PolarWind/assets/73457568/6fee244a-8577-4a4f-ae8e-8d276544ebb0)
 
 ## About
 
